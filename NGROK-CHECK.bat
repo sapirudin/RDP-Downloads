@@ -1,4 +1,5 @@
 @echo off
+echo Credits: T.me/Whatforusername
 echo Ip / Host: Check Your Ngrok Account > Cloud Edge > End Point > Click It > Copy Tcp Address
 echo Username: runneradmin
 echo Pass: P@ssw0rd!
